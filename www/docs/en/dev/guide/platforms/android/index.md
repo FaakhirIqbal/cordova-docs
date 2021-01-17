@@ -59,7 +59,7 @@ in your Cordova project, run the command `cordova platform ls` in the directory
 that holds your project.
 
 As a general rule, Android versions become unsupported by Cordova as
-they dip below 5% on Google's
+they dip below 7.7% on Google's
 [distribution dashboard](http://developer.android.com/about/dashboards/index.html).
 
 ## Installing the Requirements
